@@ -16,5 +16,5 @@ def alpha_mirror(n):
     return o
 
 #RUN
-# OK = alpha_mirror("")
+# OK = alpha_mirror("ZRSQTL Hs Zbzcdlx")
 # print(OK)
